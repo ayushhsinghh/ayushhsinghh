@@ -1,4 +1,4 @@
-### Hi there I'm Ayush! 👋
+## Hi there I'm Ayush! 👋
 
 <!--
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +39,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Whateven I Can 🤣
 - 💬 Ask me about Python , Flutter , DevOps
 - 📫 How to reach me: [LindedIn](https://linkedin.com/in/cybergodayush) , [Instagram](https://instagram.com/cybergodayush)
-- ⚡ Fun fact: I Try To Workout Daily But Can't 🤣
+- ⚡ Fun fact: I Try To Workout Daily But Can't 😅
+
+### Languages and Tools: 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+
