@@ -43,12 +43,15 @@ Here are some ideas to get you started:
 
 ### Languages and Tools: 
 
-<code><img height="20" title="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" title="Python" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"></code>
+<code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" title="Docker" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
+<code><img height="20" title="Kubernetes" src="http://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png"></code>
+<code><img height="20" title="Linux" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png"></code>
+<code><img height="20" title="Jenkins" src="http://assets.stickpng.com/images/58480984cef1014c0b5e4902.png"></code>
+<code><img height="20" title="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
+<code><img height="20" title="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code>
+
 
 
