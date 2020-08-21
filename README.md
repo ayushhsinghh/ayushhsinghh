@@ -1,18 +1,7 @@
-## Hi there I'm Ayush! 👋
+## Hi there I'm Ayush! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <a href="https://twitter.com/cybergodayush">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -52,6 +41,7 @@ Here are some ideas to get you started:
 <code><img height="20" title="Jenkins" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/jenkins.png"></code>
 <code><img height="20" title="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
 <code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code>
-
-
-
+<code><img height="20" title="Firebase" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/firebase.png"></code>
+<code><img height="20" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/gcp_icon.png"></code>
+<code><img height="20" title="Git" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/git.png"></code>
+<code><img height="20" title="TensorFlow" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/tensorflow.jpg"></code>
