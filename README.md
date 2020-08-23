@@ -61,15 +61,17 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<!---
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
 </details>
+
+-->
+
 
 <details>
   <summary>:zap: Github Stats</summary>
