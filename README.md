@@ -51,4 +51,7 @@
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Integration of Ansible & Docker In RHEL 7 & 8](https://medium.com/@ayushsingh1525/integration-of-ansible-docker-in-rhel-7-8-cf140fe2f92?source=rss-6e0b71269eb4------2)
+- [AWS NaaS Using Terraform For Secure WordPress Deployment](https://medium.com/@ayushsingh1525/aws-naas-using-terraform-for-secure-wordpress-deployment-dab751a0666c?source=rss-6e0b71269eb4------2)
+- [AWS EKS Architecture of WordPress and MySQL With EFS as Persistent Storage](https://medium.com/@ayushsingh1525/aws-eks-architecture-of-wordpress-and-mysql-with-efs-as-persistent-storage-538e435d542e?source=rss-6e0b71269eb4------2)
 <!-- BLOG-POST-LIST:END -->
