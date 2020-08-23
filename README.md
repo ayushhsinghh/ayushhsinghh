@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m CSE Student 💻
+- 🔭 I’m CSE Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Whateven I Can 🤣
 - 💬 Ask me about Python , Flutter , Cloud Computing , DevOps
 - 📫 How to reach me: [LindedIn](https://linkedin.com/in/cybergodayush) , [Instagram](https://instagram.com/cybergodayush)
@@ -46,6 +46,11 @@
 <code><img height="20" title="Git" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/git.png"></code>
 <code><img height="20" title="TensorFlow" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/tensorflow.jpg"></code>
 <code><img title="bash" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br/>
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
