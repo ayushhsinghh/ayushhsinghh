@@ -62,6 +62,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -72,3 +73,5 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cybergodayush&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+Thanks! ❤️
