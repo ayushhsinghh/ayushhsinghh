@@ -55,6 +55,7 @@
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS EKS with WordPress and RDS Complete Configuration Using Terraform Only](https://medium.com/@ayushsingh1525/aws-eks-with-wordpress-and-rds-complete-configuration-using-terraform-only-2bf3b157d0d4?source=rss-6e0b71269eb4------2)
 - [AWS Configuration with Apache Server in EC2 Using Ansible](https://medium.com/@ayushsingh1525/aws-configuration-with-apache-server-in-ec2-using-ansible-2ef61f98872e?source=rss-6e0b71269eb4------2)
 - [Integration of Ansible & Docker In RHEL 7 & 8](https://medium.com/@ayushsingh1525/integration-of-ansible-docker-in-rhel-7-8-cf140fe2f92?source=rss-6e0b71269eb4------2)
 - [AWS NaaS Using Terraform For Secure WordPress Deployment](https://medium.com/@ayushsingh1525/aws-naas-using-terraform-for-secure-wordpress-deployment-dab751a0666c?source=rss-6e0b71269eb4------2)
