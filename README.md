@@ -55,11 +55,11 @@
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CLI Setup and Launch EC2 Instance with KeyPair and Security Group with AWS CLI](https://medium.com/@ayushsingh1525/aws-cli-setup-and-launch-ec2-instance-with-keypair-and-security-group-with-aws-cli-6cbeb83bf0d6?source=rss-6e0b71269eb4------2)
 - [WordPress and MySQL Deployment on AWS With Custom VPC, Subnet, NAT Gateway and Security Group…](https://medium.com/@ayushsingh1525/wordpress-and-mysql-deployment-on-aws-with-custom-vpc-subnet-nat-gateway-and-security-group-daee99b5ba97?source=rss-6e0b71269eb4------2)
 - [AWS Infrastructure Automation By Terraform: Configure WebServer With files in EFS](https://medium.com/@ayushsingh1525/aws-infrastructure-automation-by-terraform-configure-webserver-with-files-in-efs-2d2a4e1c0660?source=rss-6e0b71269eb4------2)
 - [Case Study: How Netflix Is Using AWS And its Own CDN](https://medium.com/@ayushsingh1525/case-study-how-netflix-is-using-aws-and-its-own-cdn-64ca6282eda0?source=rss-6e0b71269eb4------2)
 - [Big Data: Challenge for MNC’s like Google, Facebook…](https://medium.com/@ayushsingh1525/big-data-challenge-for-mncs-like-google-facebook-2ae803b403eb?source=rss-6e0b71269eb4------2)
-- [Google Kubernetes Engine with WordPress and MySQL Database Using Terraform](https://medium.com/@ayushsingh1525/google-kubernetes-engine-with-wordpress-and-mysql-database-using-terraform-8583a3a2f078?source=rss-6e0b71269eb4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
