@@ -33,7 +33,9 @@
 ### Languages and Tools: 
 
 <a href="#"><img width="22px" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg" /></a>
+<code>&#124;</code>
 <a href="#"><img width="22px" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg" /></a>
+<code>&#124;</code>
 <a href="#"><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg" /></a>
 <a href="#"><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Jenkins.svg" /></a>
 <a href="#"><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg" /></a>
