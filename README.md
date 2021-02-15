@@ -4,22 +4,22 @@
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <a href="https://twitter.com/cybergodayush">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/cybergodayush">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/cybergodayush">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/cybergodayush">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/hackercybergod">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ayush's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/cybergodtricks">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Ayush's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
 <br/>
@@ -32,12 +32,12 @@
 
 ### Languages and Tools: 
 
-<code><img height="20" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg"></code>
-<code><img height="20" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg"></code>
-<code><img height="20" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg"></code>
-<code><img height="20" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Jenkins.svg"></code>
-<code><img height="20" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg"></code>
-<code><img height="20" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg"></code>
+<code><img width="22px" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg"></code>
+<code><img width="22px" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg"></code>
+<code><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg"></code>
+<code><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Jenkins.svg"></code>
+<code><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg"></code>
+<code><img width="22px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg"></code>
 
 <br/>
 
