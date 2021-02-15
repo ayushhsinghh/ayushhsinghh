@@ -32,12 +32,12 @@
 
 ### Languages and Tools: 
 
-<code><img width="22px" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg"></code>
-<code><img width="22px" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg"></code>
-<code><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg"></code>
-<code><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Jenkins.svg"></code>
-<code><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg"></code>
-<code><img width="22px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg"></code>
+<a href="#"><img width="22px" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg" /></a>
+<a href="#"><img width="22px" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg" /></a>
+<a href="#"><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg" /></a>
+<a href="#"><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Jenkins.svg" /></a>
+<a href="#"><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg" /></a>
+<a href="#"><img width="22px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg" /></a>
 
 <br/>
 
