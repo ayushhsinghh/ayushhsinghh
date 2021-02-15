@@ -37,7 +37,7 @@
 <a href="#"><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg" /></a>
 <a href="#"><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/jenkins.png" /></a>
 <a href="#"><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg" /></a>
-<a href="#"><img width="22px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg" /></a>
+<a href="#"><img width="23px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg" /></a>
 
 <br/>
 
