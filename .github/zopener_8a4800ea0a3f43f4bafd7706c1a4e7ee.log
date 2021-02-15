@@ -1,0 +1,11 @@
+[18784:21320:2020-5-19 18:27:25.479] Main Start
+[18784:21320:2020-5-19 18:27:25.480] Command line:"C:\Users\CyberGOD\Desktop\Chrome Downloads\Zoom_o42a8sofizku_955e4f1cf4dcb295.exe"  Instance:0xAF0000 Show State:1
+[18784:21320:2020-5-19 18:27:25.533] C:\
+[18784:6972:2020-5-19 18:27:25.540] [process_requst] start, url:https://us02launcher.zoom.us/conf/pui
+[18784:21320:2020-5-19 18:27:25.543] [client_has_installed_app] found path:
+[18784:21320:2020-5-19 18:27:25.543]  ***NULL-POINTER-PLACEHOLDER***
+[18784:21320:2020-5-19 18:27:25.543] [param_query_local_path] path is: C:\Users\CyberGOD\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 0 system error: 183
+[18784:21320:2020-5-19 18:27:25.543] [downloader_run] State:0
+[18784:20112:2020-5-19 18:27:25.543] [process_requst] start, url:https://us02launcher.zoom.us/upgrade?os=win
+[18784:21320:2020-5-19 18:31:3.218] [downloader_cancel] State:1
+[18784:21320:2020-5-19 18:31:9.226] Main End
