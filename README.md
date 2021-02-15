@@ -32,20 +32,12 @@
 
 ### Languages and Tools: 
 
-<code><img height="20" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/python.png"></code>
-<code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" title="Docker" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
-<code><img height="20" title="Kubernetes" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Kubernetes.png"></code>
-<code><img height="20" title="Linux" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/linux.png"></code>
-<code><img height="20" title="Jenkins" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/jenkins.png"></code>
-<code><img height="20" title="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
-<code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code>
-<code><img height="20" title="Firebase" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/firebase.png"></code>
-<code><img height="20" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/gcp_icon.png"></code>
-<code><img height="20" title="Git" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/git.png"></code>
-<code><img height="20" title="TensorFlow" src="https://github.com/cybergodayush/cybergodayush/raw/master/.github/tensorflow.jpg"></code>
-<code><img title="bash" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg"></code>
+<code><img height="20" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg"></code>
+<code><img height="20" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg"></code>
+<code><img height="20" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Jenkins.svg"></code>
+<code><img height="20" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg"></code>
+<code><img height="20" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg"></code>
 
 <br/>
 
