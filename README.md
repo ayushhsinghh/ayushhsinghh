@@ -6,7 +6,7 @@
 <a href="https://twitter.com/cybergodayush">
   <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/cybergodayush">
+<a href="https://linkedin.com/in/ayushhsinghh">
   <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/cybergodayush">
@@ -37,7 +37,8 @@
 <a href="#"><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg" /></a> 
 <a href="#"><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/jenkins.png" /></a> 
 <a href="#"><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg" /></a> 
-<a href="#"><img width="23px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg" /></a> 
+<a href="#"><img width="23px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg" /></a>
+<a href="#"><img width="23px" title="Ansible" src="https://raw.githubusercontent.com/ayushhsinghh/ayushhsinghh/master/.github/Ansible_logo.svg" /></a>
 
 <br/>
 
