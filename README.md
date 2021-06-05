@@ -48,11 +48,11 @@
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote State Management in Terraform via GCP/AWS](https://ayushhsinghh.medium.com/remote-state-management-in-terraform-via-gcp-aws-de7cb8466b?source=rss-6e0b71269eb4------2)
 - [Storage Elasticity to Hadoop DateNode using LVM | Resize Static Partition without data loss](https://ayushhsinghh.medium.com/storage-elasticity-to-hadoop-datenode-using-lvm-resize-static-partition-without-data-loss-b161e9b3a611?source=rss-6e0b71269eb4------2)
 - [What’s Ansible and How Industries are using it?](https://ayushhsinghh.medium.com/whats-ansible-and-how-industries-are-using-it-c10c0079bec?source=rss-6e0b71269eb4------2)
 - [Docker: Running Your Python Code on Docker or Apache Server](https://ayushhsinghh.medium.com/docker-running-your-python-code-on-docker-or-apache-server-1293215b0107?source=rss-6e0b71269eb4------2)
 - [AWS CLI Setup and Launch EC2 Instance with KeyPair and Security Group with AWS CLI](https://ayushhsinghh.medium.com/aws-cli-setup-and-launch-ec2-instance-with-keypair-and-security-group-with-aws-cli-6cbeb83bf0d6?source=rss-6e0b71269eb4------2)
-- [WordPress and MySQL Deployment on AWS With Custom VPC, Subnet, NAT Gateway and Security Group…](https://ayushhsinghh.medium.com/wordpress-and-mysql-deployment-on-aws-with-custom-vpc-subnet-nat-gateway-and-security-group-daee99b5ba97?source=rss-6e0b71269eb4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
