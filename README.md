@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/ayushhsinghh">
   <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/cybergodayush">
+<a href="https://github.com/ayushhsinghh">
   <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/cybergodayush">
