@@ -25,8 +25,8 @@
 <br/>
 
 - 🔭 I’m CSE Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently refining my DSA skills 
-- 💬 Ask me about Python , Flutter , Cloud Computing , DevOps
+- 🌱 I’m currently working at Oracle 
+- 💬 Ask me about Python, Flutter, Cloud Computing, DevOps
 - 📫 How to reach me: [LindedIn](https://linkedin.com/in/cybergodayush) , [Instagram](https://instagram.com/cybergodayush)
 - ⚡ Fun fact: I Try To Workout Daily But Can't 😅
 
