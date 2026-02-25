@@ -3,23 +3,27 @@
 <!--
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://twitter.com/cybergodayush">
-  <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://ayush.ltd" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Portfolio" width="30" />
 </a>
-<a href="https://linkedin.com/in/ayushhsinghh">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/ayushhsinghh" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" />
 </a>
-<a href="https://github.com/ayushhsinghh">
-  <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ayushhsinghh" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="32" />
 </a>
-<a href="https://instagram.com/cybergodayush">
-  <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/cybergodayush" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="32" />
 </a>
-<a href="https://www.facebook.com/hackercybergod">
-  <img align="left" alt="Ayush's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/cybergodayush" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="32" />
 </a>
-<a href="https://www.youtube.com/cybergodtricks">
-  <img align="left" alt="Ayush's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/cybergodtricks" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="32" />
 </a>
 <br/>
 <br/>
