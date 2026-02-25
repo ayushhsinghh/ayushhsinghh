@@ -30,28 +30,64 @@
 - 📫 How to reach me: [LindedIn](https://www.linkedin.com/in/ayushhsinghh) , [Instagram](https://www.instagram.com/ayushsinghh17/)
 - ⚡ Fun fact: I Try To Workout Daily But Can't 😅
 
-### Languages and Tools: 
+### ⚙️ Languages & Tools
 
-#### 🧑‍💻 Languages
+#### 🧑‍💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnu-bash)
 
-#### 🏗 Backend & Architecture
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+---
+
+#### 🏗 Backend & System Design
 ![REST APIs](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
 ![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-orange?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System-Design-critical?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-Multi--Threading-blueviolet?style=for-the-badge)
 
-#### ☁️ Infrastructure
+---
+
+#### 📱 Application Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+#### ☁️ Cloud & Infrastructure
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-informational?style=for-the-badge)
 
-#### 🔐 Security & Observability
+---
+
+#### 🔐 Security Engineering
+![Zero Trust](https://img.shields.io/badge/Zero-Trust-red?style=for-the-badge)
 ![PKI](https://img.shields.io/badge/PKI-%2F%20SCEP-purple?style=for-the-badge)
-![TLS](https://img.shields.io/badge/TLS%20%2F%20X.509-Security-red?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS%20%2F%20X.509-Security-darkred?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-Auth-critical?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-Access--Control-blue?style=for-the-badge)
+
+---
+
+#### 📊 Observability & Reliability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-SRE-important?style=for-the-badge)
+![Structured Logging](https://img.shields.io/badge/Structured-Logging-lightgrey?style=for-the-badge)
+
+---
+
+#### 🤖 AI & Applied Intelligence
+![LLMs](https://img.shields.io/badge/LLMs-Applications-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-blue?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI-Powered%20Systems-brightgreen?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blueviolet?style=for-the-badge)
 
 <br/>
 
