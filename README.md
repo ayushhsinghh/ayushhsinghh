@@ -32,13 +32,26 @@
 
 ### Languages and Tools: 
 
-<a href="#"><img width="22px" title="Python" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Python.svg" /></a> 
-<a href="#"><img width="22px" title="Flutter" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Flutter.svg" /></a> 
-<a href="#"><img width="22px" title="Docker" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/Docker.svg" /></a> 
-<a href="#"><img width="22px" title="Jenkins" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/jenkins.png" /></a> 
-<a href="#"><img width="22px" title="AWS" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/AWS.svg" /></a> 
-<a href="#"><img width="23px" title="Google Cloud Platform" src="https://raw.githubusercontent.com/cybergodayush/cybergodayush/master/.github/GCP.svg" /></a>
-<a href="#"><img width="23px" title="Ansible" src="https://raw.githubusercontent.com/ayushhsinghh/ayushhsinghh/master/.github/Ansible_logo.svg" /></a>
+#### 🧑‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### 🏗 Backend & Architecture
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-orange?style=for-the-badge)
+
+#### ☁️ Infrastructure
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### 🔐 Security & Observability
+![PKI](https://img.shields.io/badge/PKI-%2F%20SCEP-purple?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS%20%2F%20X.509-Security-red?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 <br/>
 
