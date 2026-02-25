@@ -4,27 +4,28 @@
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <a href="https://ayush.ltd" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Portfolio" width="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="34" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/ayushhsinghh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ayushhsinghh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/cybergodayush" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="34" alt="Twitter"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/cybergodayush" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="32" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="34" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/cybergodtricks" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="32" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="34" alt="YouTube"/>
 </a>
+
 <br/>
 <br/>
 
