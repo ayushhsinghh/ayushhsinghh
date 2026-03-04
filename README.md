@@ -11,7 +11,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-CybergodTricks-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/cybergodtricks)
 
 <br/>
-<br/>
 
 - 🔭 I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently working at Oracle 
