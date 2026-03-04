@@ -4,7 +4,7 @@
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <a href="https://ayush.ltd" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/globe.svg" width="32" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/globe.svg" style="filter: invert(1);" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ayushhsinghh" target="_blank">
