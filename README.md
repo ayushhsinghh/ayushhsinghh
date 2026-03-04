@@ -14,7 +14,7 @@
 
 - 🔭 I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently working at Oracle 
-- 💬 Ask me about Python, Flutter, Cloud Computing, DevOps
+- 💬 Ask me about Java, Python, Cloud Computing, DevOps
 - 📫 How to reach me: [LindedIn](https://www.linkedin.com/in/ayushhsinghh) , [Instagram](https://www.instagram.com/ayushsinghh17/)
 - ⚡ Fun fact: I Try To Workout Daily But Can't 😅
 
