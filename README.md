@@ -3,29 +3,12 @@
 <!--
 **cybergodayush/cybergodayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://ayush.ltd" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/globe.svg" style="filter: invert(1);" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ayushhsinghh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" style="filter: invert(1);" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ayushhsinghh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" style="filter: invert(1);" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/cybergodayush" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="32" style="filter: invert(1);" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/cybergodayush" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" style="filter: invert(1);" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/cybergodtricks" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="32" style="filter: invert(1);" />
-</a>
+[![Website](https://img.shields.io/badge/Website-ayush.ltd-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush.ltd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushhsinghh)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushhsinghh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushhsinghh)
+[![X](https://img.shields.io/badge/X-@cybergodayush-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cybergodayush)
+[![Instagram](https://img.shields.io/badge/Instagram-@cybergodayush-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybergodayush)
+[![YouTube](https://img.shields.io/badge/YouTube-CybergodTricks-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/cybergodtricks)
 
 <br/>
 <br/>
